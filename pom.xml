@@ -49,6 +49,13 @@
       </roles>
     </developer>
     <developer>
+      <id>bngreen</id>
+      <email>bruno.green@gmail.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+    <developer>
       <id>villekoskela</id>
       <email>ville.koskela@inscopemetrics.com</email>
       <organization>Inscope Metrics</organization>
