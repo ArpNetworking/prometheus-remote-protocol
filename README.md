@@ -1,6 +1,19 @@
 Prometheus Remote Protocol
 ===========================
 
+<a href="https://raw.githubusercontent.com/ArpNetworking/prometheus-remote-protocol/master/LICENSE">
+    <img src="https://img.shields.io/hexpm/l/plug.svg"
+         alt="License: Apache 2">
+</a>
+<a href="https://travis-ci.com/ArpNetworking/prometheus-remote-protocol">
+    <img src="https://travis-ci.com/ArpNetworking/prometheus-remote-protocol.svg?branch=master"
+         alt="Travis Build">
+</a>
+<a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.arpnetworking.metrics%22%20a%3A%22prometheus-remote-protocol%22">
+    <img src="https://img.shields.io/maven-central/v/com.arpnetworking.metrics/prometheus-remote-protocol.svg"
+         alt="Maven Artifact">
+</a>
+
 Building
 --------
 
