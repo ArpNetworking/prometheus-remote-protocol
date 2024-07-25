@@ -27,9 +27,10 @@
             <Bug pattern="EI_EXPOSE_REP" />
             <Bug pattern="EI_EXPOSE_REP2" />
             <Bug pattern="MS_EXPOSE_REP" />
-            <Bug pattern="NM_FIELD_NAMING_CONVENTION" />
-            <Bug pattern="UCF_USELESS_CONTROL_FLOW" />
             <Bug pattern="MS_SHOULD_BE_FINAL" />
+            <Bug pattern="NM_FIELD_NAMING_CONVENTION" />
+            <Bug pattern="SING_SINGLETON_IMPLEMENTS_SERIALIZABLE" />
+            <Bug pattern="UCF_USELESS_CONTROL_FLOW" />
             <Bug pattern="URF_UNREAD_FIELD" />
             <Bug pattern="UC_USELESS_VOID_METHOD" />
          </Or>
