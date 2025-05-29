@@ -76,7 +76,7 @@
   <properties>
     <!--Dependency versions-->
     <protobuf.version>4.31.1</protobuf.version>
-    <protoc.version>4.26.0</protoc.version>
+    <protoc.version>4.31.1</protoc.version>
 
     <!-- Spotbugs -->
     <spotbugs.exclude>${project.basedir}/spotbugs.exclude.xml</spotbugs.exclude>
