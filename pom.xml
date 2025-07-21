@@ -29,7 +29,7 @@
   <name>Prometheus Remote Protocol</name>
   <description>Prometheus remote protocol for building storage integrations</description>
   <url>https://github.com/ArpNetworking/prometheus-remote-protocol</url>
-  <version>1.2.1-SNAPSHOT</version>
+  <version>1.2.1</version>
 
   <licenses>
     <license>
@@ -70,7 +70,7 @@
     <connection>scm:git:git@github.com:arpnetworking/prometheus-remote-protocol.git</connection>
     <developerConnection>scm:git:git@github.com:arpnetworking/prometheus-remote-protocol.git</developerConnection>
     <url>https://github.com/arpnetworking/prometheus-remote-protocol</url>
-    <tag>HEAD</tag>
+    <tag>prometheus-remote-protocol-1.2.1</tag>
   </scm>
 
   <properties>
